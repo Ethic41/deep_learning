@@ -1,2 +1,1 @@
-# Deep Learning for Coders by Jeremy Howard
-
+# Deep Learning Journey
